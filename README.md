@@ -7,7 +7,7 @@ Endpoints
 - Base URL -
 
 ## API Documentation
- - [Click Here]()
+ - [Click Here](https://documenter.getpostman.com/view/31335509/2s9YeN1818)
 
 ## GET Request - All Students
  - Get All the Students data
@@ -71,4 +71,4 @@ Endpoints
     }
 
 ## Deployed URL
- - [Live Site]()
+ - [Live Site](https://student-mentor-assign-82x1.onrender.com/)
